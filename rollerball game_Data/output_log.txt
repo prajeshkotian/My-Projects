@@ -1,0 +1,37 @@
+Mono path[0] = 'C:/Users/Prajesh draque/Downloads/BallRollerUnity3D-master/rollerball game_Data/Managed'
+Mono path[1] = 'C:/Users/Prajesh draque/Downloads/BallRollerUnity3D-master/rollerball game_Data/Mono'
+Mono config path = 'C:/Users/Prajesh draque/Downloads/BallRollerUnity3D-master/rollerball game_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Prajesh draque/Downloads/BallRollerUnity3D-master/rollerball game_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55379
+Multi-casting "[IP] 192.168.0.7 [Port] 55379 [Flags] 2 [Guid] 1313867731 [EditorId] 3276263390 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-PV7JF02) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.0.7:55379]
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 22.21.13.8189]
+    Renderer: NVIDIA GeForce 930MX
+    Vendor:   NVIDIA
+    VRAM:     2020 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Prajesh draque\Downloads\BallRollerUnity3D-master\rollerball game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Prajesh draque\Downloads\BallRollerUnity3D-master\rollerball game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Prajesh draque\Downloads\BallRollerUnity3D-master\rollerball game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Prajesh draque\Downloads\BallRollerUnity3D-master\rollerball game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Prajesh draque\Downloads\BallRollerUnity3D-master\rollerball game_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Prajesh draque\Downloads\BallRollerUnity3D-master\rollerball game_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Prajesh draque\Downloads\BallRollerUnity3D-master\rollerball game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Prajesh draque\Downloads\BallRollerUnity3D-master\rollerball game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Prajesh draque\Downloads\BallRollerUnity3D-master\rollerball game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Prajesh draque\Downloads\BallRollerUnity3D-master\rollerball game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.266 seconds
+Platform assembly: C:\Users\Prajesh draque\Downloads\BallRollerUnity3D-master\rollerball game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Prajesh draque\Downloads\BallRollerUnity3D-master\rollerball game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.695573 ms
+Platform assembly: C:\Users\Prajesh draque\Downloads\BallRollerUnity3D-master\rollerball game_Data\Managed\Boo.Lang.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1fc4 -> priority: 1 
